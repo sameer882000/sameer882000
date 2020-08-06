@@ -1,4 +1,4 @@
-### Hi there, I'm Sameer 👋
+### Hi there, I'm Sameer S 👋
 
 ## I'm a Developer!
 - 🔭  I’m currently working on Assistroo at Actinide Limited.
@@ -7,7 +7,8 @@
 - 🥅 2020 Goals: Learn many things
 - ⚡ Fun fact: I love to play Valorant. 
 
+<br></br>
 
-<img align="left" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=dark&show_icons=true&hide_border=true" />
+<img align="left" alt="Sameer Sinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=synthwave&show_icons=true&hide_border=true" />
 
 
