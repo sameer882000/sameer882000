@@ -1,6 +1,6 @@
 ### Hi there, I'm Sameer Sinha 👋
 <br />
-## I'm a Developer!
+
 - 🔭  I’m currently working on Assistroo at Actinide Limited.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on some Open Source Projects.
