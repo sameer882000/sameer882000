@@ -7,6 +7,6 @@
 - 🥅 2020 Goals: Learn many things
 - ⚡ Fun fact: I love to play Valorant. 👋
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+(https://github-readme-stats.vercel.app/api?username=sameer882000)](https://github.com/anuraghazra/github-readme-stats)
 
 
