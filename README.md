@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I love to play Valorant. 
 
 
-<img align="left" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameer882000&show_icons=true&hide_border=true" />
+<img align="left" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=dark&show_icons=true&hide_border=true" />
 
 
