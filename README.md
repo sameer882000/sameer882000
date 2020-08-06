@@ -1,4 +1,4 @@
-### Hi there, I'm Sameer S 👋
+### Hi there, I'm Sameer Sinha 👋
 
 ## I'm a Developer!
 - 🔭  I’m currently working on Assistroo at Actinide Limited.
