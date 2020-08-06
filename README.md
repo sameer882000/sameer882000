@@ -17,7 +17,7 @@
   <img align="center" alt="Sameer Sinha Instagram" width="20px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
 </a>
 <a href="https://www.facebook.com/sameersinha2000">
-  <img align="right" alt="Sameer Sinha Facebook" width="20px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffacebook.svg?alt=media&token=bf3ea589-7c5c-4a0d-b839-8198ef39c502" />
+  <img align="left" alt="Sameer Sinha Facebook" width="20px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffacebook.svg?alt=media&token=bf3ea589-7c5c-4a0d-b839-8198ef39c502" />
 </a>
 
 
