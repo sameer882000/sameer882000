@@ -1,4 +1,4 @@
-### Hi there, I'm Sameer Sinha 👋
+#### Hi there, I'm Sameer Sinha 👋
 <br />
 
 - 🔭  I’m currently working on Assistroo at Actinide Limited.
@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: Learn many things
 - ⚡ Fun fact: I love to play CS:GO and Valorant. 
 
-### Connect with me :ghost:
+#### Connect with me :ghost:
 <br />
 
 <a href="https://www.linkedin.com/in/sameer-sinha-4b3a40174/">
