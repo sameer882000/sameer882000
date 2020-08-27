@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on some Open Source Projects.
 - 🥅 2020 Goals: Learn many things
-- ⚡ Fun fact: I love to play CS:GO and Valorant. 
+- ⚡ Fun fact: I love to play CS-GO and Valorant. 
 
 ## Connect with me :ghost:
 <br />
