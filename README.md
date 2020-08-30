@@ -1,5 +1,5 @@
 ## Hi there, I'm Sameer Sinha 👋
-<br><br/>
+
 
 - 🔭  I’m currently working on Assistroo at Actinide Limited.
 - 🌱 I’m currently learning Flutter.
