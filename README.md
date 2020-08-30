@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to play CS-GO and Valorant. 
 
 ## Connect with me :ghost:
-<br><br/>
+
 
 <a href="https://www.linkedin.com/in/sameer-sinha-4b3a40174/">
   <img align="left" alt="Sameer Sinha LinkedIn" width="25px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
