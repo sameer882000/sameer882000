@@ -19,7 +19,7 @@
 <a href="https://www.facebook.com/sameersinha2000">
   <img align="left" alt="Sameer Sinha Facebook" width="25px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffacebook.svg?alt=media&token=bf3ea589-7c5c-4a0d-b839-8198ef39c502" />
 </a>
-
+<br></br>
 
 <img align="left" alt="Sameer Sinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=synthwave&show_icons=true&hide_border=true" />
 
