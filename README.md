@@ -9,16 +9,26 @@
 
 ## Connect with me :ghost:
 
-
-<a href="https://www.linkedin.com/in/sameer-sinha-4b3a40174/">
-  <img align="left" alt="Sameer Sinha LinkedIn" width="25px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
+<a href="https://twitter.com/imthepk">
+  <img align="left" alt="Sameer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/mai_hoon_sameer/">
-  <img align="center" alt="Sameer Sinha Instagram" width="25px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
+<a href="https://www.linkedin.com/in/sameer-sinha-4b3a40174/">
+  <img align="left" alt="Sameer's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/iampawan">
+  <img align="left" alt="Sameer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://instagram.com/mai_hoon_sameer/">
+  <img align="left" alt="Sameer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/sameersinha2000">
-  <img align="left" alt="Sameer Sinha Facebook" width="25px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffacebook.svg?alt=media&token=bf3ea589-7c5c-4a0d-b839-8198ef39c502" />
+  <img align="left" alt="Sameer's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+
+
+
 <br></br>
 
 <img align="left" alt="Sameer Sinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=synthwave&show_icons=true&hide_border=true" />
