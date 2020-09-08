@@ -13,7 +13,7 @@
   <img align="left" alt="Sameer's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/sameer882000">
   <img align="left" alt="Sameer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -30,6 +30,10 @@
 </a>
 
 <br></br>
+
+<a href="https://github.com/sameer882000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&theme=synthwave&hide_langs_below=1" />
+</a>
 
 <img align="left" alt="Sameer Sinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=synthwave&show_icons=true&hide_border=true" />
 
