@@ -37,7 +37,7 @@
 
 
 <a href="https://github.com/sameer882000">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=dark&show_icons=true&hide_border=true&line_height=30" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=dark&show_icons=true&hide_border=true&line_height=25" />
 </a>
 
 
