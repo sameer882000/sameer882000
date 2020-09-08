@@ -32,9 +32,9 @@
 <br></br>
 
 <a href="https://github.com/sameer882000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&theme=synthwave&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&theme=dark&hide_langs_below=1" />
 </a>
 
-<img align="left" alt="Sameer Sinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=synthwave&show_icons=true&hide_border=true" />
+<img align="left" alt="Sameer Sinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=dark&show_icons=true&hide_border=true" />
 
 
