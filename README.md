@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on some Open Source Projects.
 - 🥅 2020 Goals: Learn many things
 - ⚡ Fun fact: I love to play CS-GO and Valorant. 
+- 😄 Pronouns: He/His
 
 ## Connect with me :ghost:
 
