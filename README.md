@@ -35,7 +35,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&theme=dark&hide_langs_below=1" />
 </a>
 
-<br></br>
 
-<img align="center" alt="Sameer Sinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=dark&show_icons=true&hide_border=true" />
+<a href="https://github.com/sameer882000">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=dark&show_icons=true&hide_border=true&line_height=27" />
+</a>
+
+
 
