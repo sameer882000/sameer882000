@@ -5,11 +5,11 @@
 - 👯 I’m looking to collaborate on some Open Source Projects.
 - 🥅 2020 Goals: Learn many things
 - ⚡ Fun fact: I love to play CS-GO and Valorant. 
-- 😄 Pronouns: He/His
+
 
 ## Connect with me :ghost:
 
-<a href="https://twitter.com/imthepk">
+<a href="https://twitter.com/mai_hoon_sameer?s=09">
   <img align="left" alt="Sameer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sameer-sinha-4b3a40174/">
@@ -25,8 +25,6 @@
 <a href="https://www.facebook.com/sameersinha2000">
   <img align="left" alt="Sameer's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-
 
 
 <br></br>
