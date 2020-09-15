@@ -3,7 +3,7 @@
 - 🔭  I’m currently working on Assistroo at Actinide Limited.
 - 🌱 I’m currently learning Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on some Open Source Projects.
-- 🥅 2020 Goals: To be a good human.
+- 🥅 Goals: To be a good human.
 - ⚡ Fun fact: I love to play CS-GO and Valorant. 
 
 
