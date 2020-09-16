@@ -9,6 +9,10 @@
 
 ## Connect with me :ghost:
 
+<a href="mailto:sameer.882000@gmail.com">
+  <img align="left" alt="Sameer's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/sameer-sinha-4b3a40174/">
   <img align="left" alt="Sameer's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -27,10 +31,6 @@
 
 <a href="https://twitter.com/mai_hoon_sameer?s=09">
   <img align="left" alt="Sameer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:sameer.882000@gmail.com">
-  <img align="left" alt="Sameer's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />
 </a>
 
 <br></br>
