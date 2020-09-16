@@ -29,6 +29,10 @@
   <img align="left" alt="Sameer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<a href="">
+  <img align="left" alt="Sameer's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />
+</a>
+
 <br></br>
 
 <a href="https://github.com/sameer882000">
