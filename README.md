@@ -40,6 +40,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=dark&show_icons=true&hide_border=true&line_height=25" />
 </a>
 
+<br></br>
 
+![Profile views](https://gpvc.arturio.dev/sameer882000)
 
 
