@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter, Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on some Open Source Projects.
 - 🥅 Goals: To be a good human.
-- ⚡ Fun fact: I love to play CS-GO and Valorant. 
+- ⚡ Fun fact: I am a football fan⚽.
 
 
 ## Connect with me :ghost:
