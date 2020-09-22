@@ -40,13 +40,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=dark&show_icons=true&count_private=true&hide_border=true&line_height=25" />
 </a>
 
-<br></br>
-
-![Profile views](https://gpvc.arturio.dev/sameer882000)
-
-<br></br>
-
 <p align="center">
+  
+  ![Profile views](https://gpvc.arturio.dev/sameer882000)
+  
+<br></br>
+  
 <img alt="spotify"   width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=31b7pyw6tguaefpdwco6g3d2vihe&cover_image=true" />
 </p>
 
