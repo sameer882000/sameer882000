@@ -46,7 +46,7 @@
 
 <br></br>
 
-<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=31b7pyw6tguaefpdwco6g3d2vihe&cover_image=false" />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b7pyw6tguaefpdwco6g3d2vihe&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 
