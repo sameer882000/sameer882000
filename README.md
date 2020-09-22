@@ -42,7 +42,7 @@
 
 <br></br>
 
-https://gpvc.arturio.dev/sameer882000
+![Profile views](https://gpvc.arturio.dev/[sameer882000])
 
 
 
