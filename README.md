@@ -47,7 +47,7 @@
 
 <br></br>
 
-<p align="right">  
+<p align="left">  
 <img alt="spotify"   width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=31b7pyw6tguaefpdwco6g3d2vihe&cover_image=true" />
 </p>
 
