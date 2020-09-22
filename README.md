@@ -44,6 +44,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/sameer882000)
 
+<br></br>
+
+<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=31b7pyw6tguaefpdwco6g3d2vihe&cover_image=false" />
+
 
 
 
