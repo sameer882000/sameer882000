@@ -2,7 +2,7 @@
   ![Profile views](https://gpvc.arturio.dev/sameer882000)
   
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sameer882000&repo=github-readme-stats)](https://github.com/sameer882000/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sameer882000&repo=sameer882000)](https://github.com/sameer882000/sameer882000)
 
 
 
