@@ -1,5 +1,8 @@
 
   ![Profile views](https://gpvc.arturio.dev/sameer882000)
+  
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sameer8820000&repo=github-readme-stats)](https://github.com/sameer882000/github-readme-stats)
 
 
 
