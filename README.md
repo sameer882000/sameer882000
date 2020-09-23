@@ -1,5 +1,3 @@
-  ![Profile views](https://gpvc.arturio.dev/sameer882000)
-  
 ## Hi there, I'm Sameer Sinha 👋
 
 - 🔭  I’m currently working on Assistroo at Actinide Limited.
