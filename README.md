@@ -32,12 +32,12 @@
 <br></br>
 
 <a href="https://github.com/sameer882000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&layout=compact&theme=nightowl " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&layout=compact&theme=radical " />
 </a>
 
 
 <a href="https://github.com/sameer882000">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=nightowl&show_icons=true&count_private=true&hide_border=true&line_height=25" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=25" />
 </a>
 
 <br></br>
