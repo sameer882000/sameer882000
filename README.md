@@ -32,7 +32,7 @@
 <br></br>
 
 <a href="https://github.com/sameer882000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&layout=compact&theme=tokyonight" />
 </a>
 
 
