@@ -42,9 +42,7 @@
 
 <br></br>
 
-<p align="center" width="200px">  
-<img alt="spotify"   width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=31b7pyw6tguaefpdwco6g3d2vihe&cover_image=true" />
-</p>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sameer882000)](https://github.com/sameer882000/github-contribution-stats/)
 
 
 
