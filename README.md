@@ -41,9 +41,3 @@
 </a>
 
 <br></br>
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sameer882000)](https://github.com/sameer882000/github-contribution-stats/)
-
-
-
-
