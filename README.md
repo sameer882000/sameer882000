@@ -40,3 +40,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&layout=compact&theme=radical " />
 </a>
 
+<br></br>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sameer882000&repo=sameer882000)](https://github.com/sameer882000/github-readme-stats)
+
