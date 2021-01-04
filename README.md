@@ -9,10 +9,6 @@
 
 ## Connect with me :ghost:
 
-<a href="mailto:sameer.882000@gmail.com">
-  <img align="left" alt="Sameer's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />
-</a>
-
 <a href="https://www.linkedin.com/in/sameer-sinha-4b3a40174/">
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
