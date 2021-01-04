@@ -23,7 +23,7 @@
 
 
 <a href="https://www.facebook.com/sameersinha2000">
-  <img align="left" alt="Sameer's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+ <img src="https://img.shields.io/badge/<handle>%20-%232671E5.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/mai_hoon_sameer?s=09">
