@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://instagram.com/mai_hoon_sameer/">
-  <img src="https://img.shields.io/badge/mai_hoon_sameer%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
 
@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://twitter.com/mai_hoon_sameer?s=09">
-  <img align="left" alt="Sameer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ <img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
 <br></br>
