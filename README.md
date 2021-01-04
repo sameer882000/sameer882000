@@ -26,7 +26,6 @@
  <img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
-<br></br>
 
 <a href="https://github.com/sameer882000">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=25" />
