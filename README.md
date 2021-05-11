@@ -1,7 +1,6 @@
 ## Hi there, I'm Sameer Sinha 👋
 
 - 🔭  I’m currently working on Assistroo at Actinide Limited.
-- 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on some Open Source Projects.
 - 🥅 Goals: To be a good human.
 - ⚽ Fun fact: I am a football fan.
