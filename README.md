@@ -36,6 +36,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&theme=radical " />
 </a>
 
-[![Sparkline](https://stars.medv.io/sameer882000/badges.svg)](https://stars.medv.io/sameer882000/badges)
+[![Sparkline](https://stars.medv.io/sameer882000/badges.svg)](https://stars.medv.io/sameer882000/sameer882000)
 
 
