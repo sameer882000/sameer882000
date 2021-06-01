@@ -11,11 +11,10 @@
 <a href="https://www.linkedin.com/in/sameer-sinha-4b3a40174/">
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br />
+
 <a href="https://instagram.com/mai_hoon_sameer/">
   <img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-
 
 <a href="https://www.facebook.com/sameersinha2000">
  <img src="https://img.shields.io/badge/facebook%20-%232671E5.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
