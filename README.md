@@ -26,13 +26,5 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/sameer882000">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=25" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=sameer882000&theme=radical&show_icons=true&count_private=true&hide_border=true&line_height=25" />
 </a>
-
-
-<a href="https://github.com/sameer882000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer882000&theme=radical&layout=compact" />
-</a>
-
-
-
