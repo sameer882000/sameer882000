@@ -1,6 +1,10 @@
 ## Hi there, I'm Sameer Sinha 👋
 
-- 👯 I’m looking to collaborate on some Open Source Projects.
+
+- 🔭 I’m currently working as contributor in a Open Source Contribution Program GWoC'21.
+- 🔭 I was a participant in Open Source Contribution Program LGMSoC'21.
+- 🔭 I was a participant in Open Source Contribution Program GSSoC'21.
+- 👯 I’m looking to collaborate on some more Open Source Projects.
 - 🥅 Goals: To be a good human.
 - ⚽ Fun fact: I am a football fan.
 
