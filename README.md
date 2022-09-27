@@ -10,6 +10,14 @@
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/sameer882000/">
+<img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/sameer882000">
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a> 
+
 <a href="https://instagram.com/mai_hoon_sameer/">
   <img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
@@ -21,14 +29,6 @@
 <a href="https://twitter.com/mai_hoon_sameer?s=09">
  <img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
-
-<a href="https://leetcode.com/sameer882000/">
-<img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/sameer882000">
-<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a> 
 
 ## 📈 GitHub Stats
 
