@@ -22,6 +22,10 @@
  <img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/sameer882000/">
+<img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/sameer882000">
