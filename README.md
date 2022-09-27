@@ -26,6 +26,10 @@
 <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
+<a href="https://auth.geeksforgeeks.org/user/sameer882000">
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a> 
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/sameer882000">
