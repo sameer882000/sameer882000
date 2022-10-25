@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/sameer882000/">
+<a href="https://leetcode.com/sameer882000/" target="_blank">
 <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
