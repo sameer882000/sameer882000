@@ -3,9 +3,8 @@
 - 🥅 Goals: To be a good human.
 - ⚽ Fun fact: I am a football fan.
 
-
 ## Connect with me :ghost:
-
+<p>
 <a href="https://www.linkedin.com/in/sameer-sinha-4b3a40174" target="_blank">
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -30,5 +29,6 @@
  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
+</p>
 
 
